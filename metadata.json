@@ -1,0 +1,5 @@
+{
+  "name": "工业智能体指挥中心",
+  "description": "一个模拟 PLM/MES 操作的工业智能体闭环（规划-执行-观察）指挥仪表盘。",
+  "requestFramePermissions": []
+}
